@@ -1,0 +1,8 @@
+db_config:
+  user: ""
+  password: ""
+  host: ""
+  port: ""
+  db_name: ""
+log_config:
+  defaultLogFile: "logs"
